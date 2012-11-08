@@ -7,5 +7,21 @@ Much like the game Breakout, the player controls the "Vaus", a space vessel that
 OSX
 ========
 
+To build on OSX you need to install these libraries and copy them in /Library/Frameworks:
+
+- SDL\_image-1.2.12.dmg from [here](http://www.libsdl.org/projects/SDL_image)
+- SDL-1.2.15.dmg from [here](http://www.libsdl.org/download-1.2.php)
+
+Run with **make && ./arkanoid**
+
 Ubuntu Linux
 ========
+
+To build on Ubuntu you need to install these libraries from software centre:
+
+- libsdl-image1.2
+- libsdl-image1.2-dev
+- libsdl1.2debian
+- libsdl1.2-dev
+
+Run with **make && ./arkanoid**
