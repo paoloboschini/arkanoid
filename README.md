@@ -25,3 +25,5 @@ To build on Ubuntu you need to install these libraries from software centre:
 - libsdl1.2-dev
 
 Run with **make && ./arkanoid**
+
+![alt tag](https://raw.github.com/paoloboschini/arkanoid/master/screen.png)
